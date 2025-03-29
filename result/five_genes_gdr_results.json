@@ -1,0 +1,32 @@
+{
+    "0.7319278007348868": {
+        "min": 0.1726,
+        "max": 1.0938,
+        "min_sub_pop": "EUR___TSI",
+        "max_sub_pop": "AFR___LWK"
+    },
+    "0.8020509510352538": {
+        "min": 0.2231,
+        "max": 1.1718,
+        "min_sub_pop": "EAS___CDX",
+        "max_sub_pop": "AFR___LWK"
+    },
+    "0.8140333181253067": {
+        "min": 0.2297,
+        "max": 1.1552,
+        "min_sub_pop": "EAS___CDX",
+        "max_sub_pop": "AFR___LWK"
+    },
+    "0.8200140097008767": {
+        "min": 0.328,
+        "max": 1.1133,
+        "min_sub_pop": "EAS___CDX",
+        "max_sub_pop": "AFR___LWK"
+    },
+    "0.8375926415142463": {
+        "min": 0.4637,
+        "max": 1.0426,
+        "min_sub_pop": "EAS___CDX",
+        "max_sub_pop": "AFR___ACB"
+    }
+}

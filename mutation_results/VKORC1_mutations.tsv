@@ -1,0 +1,23 @@
+Gene with lowest GDR (SAS_BEB): VKORC1 (0.17257181445583)
+Using sample map file: /home/abera/data1/data1/five_genes/5genes/uniq_samplemap.tsv/ENSG00000167397___ENST00000319788___1___VKORC1__uniq_samplemap.tsv
+Using FASTA sequence file: /home/abera/data1/data1/five_genes/5genes/uniq_aln.fa/ENSG00000167397___ENST00000319788___1___VKORC1__uniq_aln.fa
+Reference sequence: ENSG00000167397___ENST00000319788___1___VKORC1__3
+
+Mutations found:
+Sample ENSG00000167397___ENST00000319788___1___VKORC1__1:
+  Position 395: C → A
+Sample ENSG00000167397___ENST00000319788___1___VKORC1__4:
+  Position 129: T → A
+  Position 159: T → G
+  Position 395: C → A
+Sample ENSG00000167397___ENST00000319788___1___VKORC1__5:
+  Position 159: T → G
+  Position 271: G → A
+  Position 395: C → A
+Sample ENSG00000167397___ENST00000319788___1___VKORC1__6:
+  Position 159: T → G
+  Position 160: C → A
+  Position 395: C → A
+Sample ENSG00000167397___ENST00000319788___1___VKORC1__2:
+  Position 159: T → G
+  Position 395: C → A

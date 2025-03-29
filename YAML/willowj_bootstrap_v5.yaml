@@ -1,0 +1,9 @@
+---
+ analysis_name: 'AberaTest_bootstrap'
+ func: 'calcGDRrandom'
+ sample_group_info_file: '/home/abera/data1/five_genes/willowTestData/sample_data.tsv'
+ output_folder: '/home/abera/data1/five_genes/willowTestData/GDRcalculationResultSJ'
+ output_unprocessed: 'GDRcalculation_unprocessed_samplesJ.tsv'
+ group_category_definitions_file: '/home/abera/data1/five_genes/willowTestData/group_data.tsv'
+ num_random_values: 100
+ distance_matrix_filelist: '/home/abera/data1/five_genes/willowTestData/five_genes_distance_matrice_list.txt'

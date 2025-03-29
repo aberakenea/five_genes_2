@@ -1,0 +1,5 @@
+/home/abera/data1/data1/five_genes/willowTestData/distance_matrices/ENSG00000167397___VKORC1__dist_max.tsv
+/home/abera/data1/data1/five_genes/willowTestData/distance_matrices/ENSG00000174469___CNTNAP2__dist_max.tsv
+/home/abera/data1/data1/five_genes/willowTestData/distance_matrices/ENSG00000186115___CYP4F2__dist_max.tsv
+/home/abera/data1/data1/five_genes/willowTestData/distance_matrices/ENSG00000160613___PCSK7__dist_max.tsv
+/home/abera/data1/data1/five_genes/willowTestData/distance_matrices/ENSG00000138109___CYP2C9__dist_max.tsv
